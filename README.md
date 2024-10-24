@@ -1,8 +1,8 @@
-# Youtube-Downloader
-A Python-based open-source youtube video downloader that allows users to download videos from youtube, either individually or in bulk.
+# YouTube Downloader
 
+This is an open-source video downloader developed in Python, enabling users to download videos from YouTube, either individually or in bulk.
 
-!!! Update !!!
+Update:
 
-- higher resolutions are now supported!
-- optimized the code for faster download speeds 
+- Support for higher resolutions has been added.
+- The code has been optimized for improved download speeds.
